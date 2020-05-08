@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyMovieApplication</string>
+    <string name="director_error" />
+    <string name="title_error" />
+    <string name="genre_error" />
+    <string name="year_error" />
+</resources>
